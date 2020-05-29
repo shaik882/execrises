@@ -16,3 +16,7 @@ Object orientened
 
 Wrote few programs to find version of python and type of variable
 
+Session 2 - 12:00 AM
+
+variables - int, float, string, boolan, operators, functions,
+
