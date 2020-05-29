@@ -1,1 +1,18 @@
 This is test file to see if i can get this file on the pycharm
+
+I am following - Let Us Python - Yashavant Kanetkar / Aditya Kanetkar - Edition 2
+Target is to complete the 1000 hours on Python Programming - every bit of time spent will be accounted.
+Starting Studying on 29th May -2020 at 12:30 PM
+
+Would be logging in my hours here daily
+
+Session 1 - 1:00 PM - 1:38 PM IST
+Introduction
+Python Programing Styles
+Functional
+Procedural
+Event Driven
+Object orientened
+
+Wrote few programs to find version of python and type of variable
+
