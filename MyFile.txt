@@ -29,5 +29,7 @@ String introduction
 
 Session 5 - 6:54 PM - 7:54 PM
 Few execrises on Python Basic
+execrises_13 - Execrise_14
+
 
 
