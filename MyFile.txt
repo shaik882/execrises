@@ -31,5 +31,6 @@ Session 5 - 6:54 PM - 7:54 PM
 Few execrises on Python Basic
 execrises_13 - Execrise_14
 
-
+Session 6 - 6:00 AM to 07:0 AM - 14/06/2020
+Decision control instructions - if statement, if-else statement, nested if statement.. etc
 
