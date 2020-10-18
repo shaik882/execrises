@@ -56,7 +56,9 @@ I need to work 30 hours a week - promised - Python
 This is plan as if now - will modify accordingly
 
 
-
+Session 8 - 18/10/2020 8:15 AM to 9:15 AM IST
+Mash Tutorial - Variables
+All ways use lower case letters when defining a variable
 
 
 
