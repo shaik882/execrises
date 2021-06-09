@@ -48,7 +48,7 @@ Problems
 5. I am not focused on family as well - don't take care of kids or wife properly
 
 So i decided and promised to my self that from today onwards i will try to do my best in my life and be focused on
-my life which is not good for this world or next world
+my life which is  good for this world or next world
 
 4:26 AM - No youtube, No Facebook other than using for it my benefit - to gain knowledge and learn
 I need to work 30 hours a week - promised - tickets, incidents, callouts
@@ -60,5 +60,11 @@ Session 8 - 18/10/2020 8:15 AM to 9:15 AM IST
 Mash Tutorial - Variables
 All ways use lower case letters when defining a variable
 
+#Thrid attempt to learn python - 08-06-2021
+I have been quit bit of time since last time when worked on my programming skills and it have lots of time wasted in day dreaming
+I think i lack motivation to learn this skill.
+I have plans to change the job as well, next profile will be devops - network devops - ansible
+It has been more than one year now, i have trying to learn the Python programming but failing due to lack of focus.
+USE TIME WILL ALLAH ALSO COUNTS THE TIME HE GAVE ME IN THIS WORLD.
 
 
